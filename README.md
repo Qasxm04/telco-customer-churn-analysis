@@ -2,7 +2,15 @@
 
 An end-to-end data analytics portfolio project that combines **SQL Server, Power BI, Python and machine learning** to investigate customer churn, quantify revenue risk and identify customers most likely to leave a telecommunications provider.
 
-![Executive overview dashboard](screenshots/executive_overview.png)
+## Dashboard previews
+
+### Executive Overview
+
+![Executive Overview Power BI dashboard](screenshots/executive_overview.png)
+
+### Churn Prediction
+
+![Churn Prediction Power BI dashboard](screenshots/churn_prediction.png)
 
 ## Project purpose
 
