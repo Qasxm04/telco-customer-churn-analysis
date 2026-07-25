@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Power BI temporary files
+*.pbit.tmp
+*.pbix.tmp
+~$*.pbix
+
+# Office temporary files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Local environment and credentials
+.env
+*.env
+secrets.*
+credentials.*
